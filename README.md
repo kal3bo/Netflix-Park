@@ -6,7 +6,7 @@
 ![Cargando...](Images/Install.png?raw=true "Instalación")
 ### Añadir nuevo proyecto y buscar el repositorio clonado
 ![Cargando...](Images/Add.png?raw=true "Añadir")
-### Abrir el menú de Build Settings endro de la pestaña File
+### Abrir el menú de Build Settings en la pestaña File
 ![Cargando...](Images/Build.png?raw=true "Build Settings")
 ### Añarir escena, cambiar plataforma y abrir "Player Settings"
 ![Cargando...](Images/Settings.png?raw=true "Settings")
